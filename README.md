@@ -1,2 +1,2 @@
 # CMoeDataBase
-# CMoeDataBase是使用runtime方便数据库的建立和访问
+# CMoeDataBase是使用runtime封装了部分SQLite语句，可以很简单的使用SQLite
